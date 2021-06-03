@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DcCbs
 - 👀 I’m interested in private security
 - 🌱 I’m currently learning phone tracking
-- 💞️ I’m looking to collaborate on clinic g phones
+- 💞️ I’m looking to collaborate on cloning phones
 - 📫 How to reach me mihmmm@outlook.com
 
 <!---
